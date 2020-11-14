@@ -79,3 +79,7 @@ F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\obj\Debug\OdeTo
 F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
 F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
 F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\bin\Autofac.dll
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.dll
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\bin\Autofac.xml
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.xml
