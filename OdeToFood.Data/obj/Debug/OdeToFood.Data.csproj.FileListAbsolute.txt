@@ -1,0 +1,6 @@
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+F:\GitHub\pluralsight_Cshart\ASP.NET MVC\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
