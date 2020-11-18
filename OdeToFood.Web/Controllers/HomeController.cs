@@ -13,13 +13,7 @@ namespace OdeToFood.Web.Controllers
 
         public HomeController(IRestaurantData db)
         {
-            this.db = db; 
-        }
-        public ActionResult Index()
-        {
-            var model = db.GetAll();
-            return View(model);
-            //return "<h1>Hello world</h1>";  
+            this.db = db;
         }
 
         public ActionResult About()
