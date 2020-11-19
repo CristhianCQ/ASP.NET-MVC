@@ -16,6 +16,12 @@ namespace OdeToFood.Web.Controllers
             this.db = db;
         }
 
+        public ActionResult Index()
+        {
+            var model = db.GetAll();
+            return View(model);
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
